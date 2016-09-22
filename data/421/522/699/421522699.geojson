@@ -9,13 +9,14 @@
     "geom:latitude":0.0,
     "geom:longitude":0.0,
     "iso:country":"CN",
+    "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85903649,
+        85669831,
         102191569,
         85632695,
         102027181,
-        85669831
+        85903649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,10 +35,11 @@
         }
     ],
     "wof:id":421522699,
-    "wof:lastmodified":1459821238,
+    "wof:lastmodified":1474569540,
     "wof:name":"2000",
     "wof:parent_id":"85903649",
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-cn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
